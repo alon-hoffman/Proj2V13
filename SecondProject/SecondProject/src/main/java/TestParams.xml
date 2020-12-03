@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <BuyMeSite>
+        <TestURL>https://buyme.co.il/</TestURL>
+        <browserType>Chrome</browserType>
+        <webDriverName>webdriver.chrome.driver</webDriverName>
+    </BuyMeSite>
+</config>
